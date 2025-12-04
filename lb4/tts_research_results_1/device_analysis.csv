@@ -1,0 +1,5 @@
+,synthesis_time,synthesis_time,mos_score,mos_score
+,mean,std,mean,std
+device,,,,
+CPU,2.685,0.307,4.204,0.169
+GPU,1.198,0.483,4.14,0.286
